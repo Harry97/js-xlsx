@@ -23,7 +23,7 @@
 		"xlsjs":"",
 		"uglify-js":""
 	},
-	"repository": { "type":"git", "url":"git://github.com/Harry97/js-xlsx.git#beta" },
+	"repository": { "type":"git", "url":"https://github.com/Harry97/js-xlsx" },
 	"scripts": {
 		"pretest": "git submodule init && git submodule update",
 		"test": "make test"
